@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Colorful Pattern Shirts",
+    "price": 269,
+    "ogprice": 369,
+    "image": "/img/f1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Cartoon Astronaut T-Shirts",
+    "price": 199,
+    "ogprice": 299,
+    "image": "/img/f2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Letter Print T-Shirt",
+    "price": 139,
+    "ogprice": 139,
+    "image": "/img/f3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Element Pattern Print Shirts",
+    "price": 249,
+    "ogprice": 349,
+    "image": "/img/f4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Shining Flower Printed Design",
+    "price": 239,
+    "ogprice": 339,
+    "image": "/img/f5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Vintage Henley Shirt",
+    "price": 299,
+    "ogprice": 399,
+    "image": "/img/f6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Women Cotton Leg Pants",
+    "price": 319,
+    "ogprice": 419,
+    "image": "/img/f7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Cotton Leaf Printed",
+    "price": 599,
+    "ogprice": 699,
+    "image": "/img/f8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Button Up Solid Color Shirt",
+    "price": 499,
+    "ogprice": 599,
+    "image": "/img/n1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Flannel Shirt with Patch Pocket",
+    "price": 569,
+    "ogprice": 669,
+    "image": "/img/n2.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Men Relaxed Fit Shirt",
+    "price": 699,
+    "ogprice": 799,
+    "image": "/img/n3.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Primegreen Check Polo Shirt",
+    "price": 459,
+    "ogprice": 559,
+    "image": "/img/n4.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Men Blue Shirts",
+    "price": 799,
+    "ogprice": 899,
+    "image": "/img/n5.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Cotton Chino Shorts with Belt",
+    "price": 549,
+    "ogprice": 649,
+    "image": "/img/n6.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Front Pockets Design Shirt",
+    "price": 859,
+    "ogprice": 859,
+    "image": "/img/n7.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Regular Fit Short-sleeved shirt",
+    "price": 499,
+    "ogprice": 599,
+    "image": "/img/n8.jpg"
+  }
+]
